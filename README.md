@@ -39,8 +39,8 @@ HTML, CSS & JavaScript.
 ## 📫 Connect with me
 
 - X (Twitter): [@MohiuddinRamzan](https://twitter.com/MohiuddinRamzan)
-- LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add if available]
+- LinkedIn: [https://bd.linkedin.com/in/mohiuddinramzan]
+
 
 ---
 
